@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bin0412
+- 👋 Hi, I’m @coder_bin
 - 👀 I’m interested in Algorithm
 - 🌱 I’m currently learning Golang, C++, Linux Web Server
 - 💞️ I’m looking to collaborate on C/C++
